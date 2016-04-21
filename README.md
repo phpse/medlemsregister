@@ -8,7 +8,7 @@ För att bli medlem, gör en PR till [members.json](/members.json) och lägg til
         {
             "name": "Ditt namn",
             "github": "Ditt användarnamn på Github",
-            "optional": {
+            "optionals": {
               "email": "foo@bar.com",
               "twitter": "foobar",
               "keybase": "foobar" 
