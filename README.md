@@ -16,4 +16,4 @@ För att bli medlem, gör en PR till [members.json](/members.json) och lägg til
         }
     ]
 
-Alla medlemmar visas upp på [http://phpse.org].
+Alla medlemmar visas upp på http://phpse.org.
