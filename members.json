@@ -2,6 +2,8 @@
   {
     "name": "Martin Danielsson",
     "github": "martindanielsson",
-    "email": "martin@d0ttcreations.se"
+    "optionals": {
+      "email": "martin@d0ttcreations.se"
+    }
   }
 ]
