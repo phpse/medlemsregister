@@ -5,5 +5,5 @@ För att bli medlem, gör en PR till members.json och lägg till dig själv med 
 
     [{
         "name": "Ditt namn",
-        "username": "Ditt användarnamn på Github",
+        "github": "Ditt användarnamn på Github",
     }]
