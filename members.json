@@ -5,5 +5,13 @@
     "optionals": {
       "email": "martin@d0ttcreations.se"
     }
+  },
+  {
+    "name": "Filip Joelsson",
+    "github": "filiphazardous",
+    "optionals": {
+      "email": "filip@pixiecoder.com",
+      "twitter": "filiphazardous"
+    }
   }
 ]
