@@ -13,5 +13,13 @@
       "email": "filip@pixiecoder.com",
       "twitter": "filiphazardous"
     }
+  },
+  {
+    "name": "Jon Gotlin",
+    "github": "jongotlin",
+    "optionals": {
+      "email": "jon@jon.se",
+      "twitter": "jongotlin"
+    }
   }
 ]
