@@ -1,5 +1,8 @@
 {
     "require": {
         "seld/jsonlint": "^1.4"
+    },
+    "scripts": {
+        "test": "php jsonLint.php"
     }
 }
