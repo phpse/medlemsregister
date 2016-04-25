@@ -11,9 +11,11 @@ För att bli medlem, gör en PR till [members.json](/members.json) och lägg til
         "optionals": {
           "email": "foo@bar.com",
           "twitter": "foobar",
-          "keybase": "foobar" 
+          "keybase": "foobar"
         }
       }
     ]
+
+För att testa att [members.json](/members.json) validerar, kör `composer install && composer test`
 
 Alla medlemmar visas upp på http://phpse.org.
