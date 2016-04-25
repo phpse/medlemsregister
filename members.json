@@ -21,5 +21,14 @@
       "email": "jon@jon.se",
       "twitter": "jongotlin"
     }
+  },
+  {
+    "name": "Tobias Nyholm",
+    "github": "Nyholm",
+    "optionals": {
+      "email": "tobias.nyholm@gmail.com",
+      "twitter": "tobiasnyholm",
+      "company": "Happyr"
+    }
   }
 ]
