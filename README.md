@@ -17,5 +17,6 @@ För att bli medlem, gör en PR till [members.json](/members.json) och lägg til
     ]
 
 För att testa att [members.json](/members.json) validerar, kör `composer install && composer test`
+Ingen output betyder att det är korrekt json.
 
 Alla medlemmar visas upp på http://phpse.org.
