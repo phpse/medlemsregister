@@ -1,4 +1,11 @@
 [
+    {
+    "name": "Alexey Romanov",
+    "github": "babruix",
+    "optionals": {
+      "email": "romanalexey@gmail.com"
+    }
+  },
   {
     "name": "Martin Danielsson",
     "github": "martindanielsson",
