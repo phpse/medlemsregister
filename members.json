@@ -39,5 +39,14 @@
       "twitter": "nicholasruunu",
       "company": "Fervo"
     }
+  },
+  {
+    "name": "Emanuel Winblad",
+    "github": "mannew",
+    "optionals": {
+      "email": "emanuel.winblad@gmail.com",
+      "twitter": "mannew",
+      "company": "Sports Editing Sweden"
+    }
   }
 ]
