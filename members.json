@@ -55,5 +55,13 @@
       "twitter": "mannew",
       "company": "Sports Editing Sweden"
     }
+  },
+  {
+    "name": "Patrik Nilsson",
+    "github": "enpatrik",
+    "optionals": {
+      "email": "enpatrik@gmail.com",
+      "twitter": "enpatrik"
+    }
   }
 ]
