@@ -56,12 +56,22 @@
       "company": "Sports Editing Sweden"
     }
   },
-  {
+    {
     "name": "Patrik Nilsson",
     "github": "enpatrik",
     "optionals": {
       "email": "enpatrik@gmail.com",
       "twitter": "enpatrik"
     }
-  }
+  },
+  {
+    "name": "Ingvar Kreft",
+    "github": "IngWARP",
+    "optionals": {
+      "email": "ingvarkreft@gmail.com",
+      "twitter": "IngWARP",
+      "company": "Cybercom"
+    }
+  },
+
 ]
