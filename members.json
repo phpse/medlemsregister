@@ -56,7 +56,7 @@
       "company": "Sports Editing Sweden"
     }
   },
-    {
+  {
     "name": "Patrik Nilsson",
     "github": "enpatrik",
     "optionals": {
@@ -72,6 +72,5 @@
       "twitter": "IngWARP",
       "company": "Cybercom"
     }
-  },
-
+  }
 ]
