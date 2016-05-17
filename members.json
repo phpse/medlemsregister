@@ -72,5 +72,14 @@
       "twitter": "IngWARP",
       "company": "Cybercom"
     }
+  },
+  {
+    "name": "Rickard Bennison",
+    "github": "rickard2",
+    "optionals": {
+      "email": "rickard+c1a00f5@0x539.se",
+      "twitter": "rickard2",
+      "company": "Montania System AB"
+    }
   }
 ]
