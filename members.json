@@ -81,5 +81,14 @@
       "twitter": "rickard2",
       "company": "Montania System AB"
     }
+  },
+  {
+    "name": "Daniel Nilsson",
+    "github": "danijeel",
+    "optionals": {
+      "email": "daniel.nilsson1989@gmail.com",
+      "twitter": "danijeel_n",
+      "company": "Inteleon AB"
+    }
   }
 ]
