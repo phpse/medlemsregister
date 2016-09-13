@@ -90,5 +90,14 @@
       "twitter": "danijeel_n",
       "company": "Inteleon AB"
     }
+  },
+  {
+    "name": "Daniel Kolvik",
+    "github": "dkvk",
+    "optionals": {
+      "email": "daniel.kolvik@gmail.com",
+      "twitter": "dkvk",
+      "company": "Redeye AB"
+    }
   }
 ]
