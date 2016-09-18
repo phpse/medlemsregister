@@ -99,5 +99,14 @@
       "twitter": "dkvk",
       "company": "Redeye AB"
     }
+  },
+  {
+    "name": "Niklas Modess",
+    "github": "modess",
+    "optionals": {
+      "email": "niklas@modess.io",
+      "twitter": "niklasmodess",
+      "company": "modess.io"
+    }
   }
 ]
