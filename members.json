@@ -108,5 +108,13 @@
       "twitter": "niklasmodess",
       "company": "modess.io"
     }
+  },
+  {
+    "name": "Toby Ryuk",
+    "github": "TobyRyuk",
+    "optionals": {
+      "email": "ryuk.toby@gmail.com",
+      "twitter": "tobyryuk"
+    }
   }
 ]
