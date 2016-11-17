@@ -116,5 +116,13 @@
       "email": "ryuk.toby@gmail.com",
       "twitter": "tobyryuk"
     }
+  },
+  {
+    "name": "Magnus Nordlander",
+    "github": "magnusnordlander",
+    "optionals": {
+      "email": "magnus@nordlander.se",
+      "twitter": "drrotmos"
+    }
   }
 ]
