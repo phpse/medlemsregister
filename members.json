@@ -132,5 +132,14 @@
       "email": "emil@johnzzon.net",
       "twitter": "johnzzon"
     }
+  },
+  {
+    "name": "Ola Lundén",
+    "github": "ollu",
+    "optionals": {
+      "email": "ola@fickla.nu",
+      "twitter": "oklunden",
+      "company": "Kodamera"
+    }
   }
 ]
