@@ -124,5 +124,14 @@
       "email": "magnus@nordlander.se",
       "twitter": "drrotmos"
     }
+  },
+  {
+    "name": "Ola Lundén",
+    "github": "ollu",
+    "optionals": {
+      "email": "ola@fickla.nu",
+      "twitter": "oklunden",
+      "company": "Kodamera"
+    }
   }
 ]
