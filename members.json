@@ -124,5 +124,13 @@
       "email": "magnus@nordlander.se",
       "twitter": "drrotmos"
     }
+  },
+  {
+    "name": "Emil Johnsson",
+    "github": "Johnzzon",
+    "optionals": {
+      "email": "emil@johnzzon.net",
+      "twitter": "johnzzon"
+    }
   }
 ]
