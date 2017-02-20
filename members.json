@@ -141,5 +141,13 @@
       "twitter": "oklunden",
       "company": "Kodamera"
     }
+  },
+  {
+    "name": "Elis Axelsson",
+    "github": "etu",
+    "optionals": {
+      "email": "elis.axelsson@gmail.com",
+      "keybase": "etu"
+    }
   }
 ]
