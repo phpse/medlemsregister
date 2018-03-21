@@ -156,5 +156,12 @@
     "optionals": {
       "email": "ishan@jain.com"
     }
+  },
+  {
+    "name": "Yassin Makhloufi",
+    "github": "ymakhloufi",
+    "optionals": {
+      "email": "yassin+phpse@makhloufi.de"
+    }
   }
 ]
