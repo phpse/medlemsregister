@@ -163,5 +163,10 @@
     "optionals": {
       "email": "yassin+phpse@makhloufi.de"
     }
+  },
+  {
+    "name": "Petter Blomberg",
+    "github": "p-blomberg",
+    "optionals": {}
   }
 ]
