@@ -173,5 +173,14 @@
     "name": "Dmitry Makarenko",
     "github": "dmitrymakarenko",
     "optionals": {}
+  },
+  {
+    "name": "Patric Johansson",
+    "github": "PatricNox",
+    "optionals": {
+      "email": "hello@patricnox.info",
+      "twitter": "PatricNox",
+      "company": "Kodamera"
+    }
   }
 ]
