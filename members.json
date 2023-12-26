@@ -175,5 +175,12 @@
       "twitter": "PatricNox",
       "company": "Kodamera"
     }
+  },
+  {
+    "name": "Jamie Blomerus",
+    "github": "jamieblomerus",
+    "optionals": {
+      "email": "jamie.blomerus@protonmail.com"
+    }
   }
 ]
